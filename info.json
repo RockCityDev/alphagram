@@ -1,0 +1,17 @@
+{
+  "slug": "The best Web3 Telegram",
+  "name": "alphagram",
+  "description": "alphagram is the most comprehensive third-party Telegram for Web3 users and is dedicated to building cryoto social experience with unique features.",
+  "appUrl": "https://alphagram.app",
+  "contractAddresses": [
+    ""
+  ],
+  "categories": [
+    "alphagram"
+  ],
+  "email": "craig@rockcity.tech",
+  "social": {
+    "twitter": "https://twitter.com/alphagramapp",
+    "telegram": "https://t.me/alphagramgroup",
+  }
+}
